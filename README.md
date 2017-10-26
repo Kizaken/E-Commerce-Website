@@ -1,9 +1,9 @@
 # E-Commerce-Website-Re:Quest
-#Group - 9
--Charlie Quiza
--Aldrin Pineda
--Brigette Casipagan
--Ramil Sison
+##Group - 9
+-**Charlie Quiza
+-**Aldrin Pineda
+-**Brigette Casipagan
+-**Ramil Sison
 
 
 ![alt text][img1]Home
